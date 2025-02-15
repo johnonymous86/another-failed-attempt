@@ -10,6 +10,10 @@ header {
     border-bottom: 2px solid black;
 }
 
+body {
+    background-image: url('../photos/bg.png')
+}
+
 h1 {
     float: left;
     padding-bottom: 10px;
