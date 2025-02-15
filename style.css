@@ -11,7 +11,7 @@ header {
 }
 
 body {
-    background-image: url('/project_working/m5-hw5-caudill-john/photos/bg.png')
+    background-image: url('../photos/bg.png')
 }
 
 h1 {
