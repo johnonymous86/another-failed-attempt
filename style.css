@@ -11,8 +11,9 @@ header {
 }
 
 body {
-    background-image: url('../photos/bg.png')
+    background-image: url('/photos/bg.png')
 }
+
 
 h1 {
     float: left;
